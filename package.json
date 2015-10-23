@@ -1,0 +1,23 @@
+{
+  "name": "monica",
+  "version": "1.0.0",
+  "description": "slacbot",
+  "main": "monica.js",
+  "dependencies": {
+    "slack-client": "^1.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jessekl/slackbot.git"
+  },
+  "author": "Jesse Lurie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jessekl/slackbot/issues"
+  },
+  "homepage": "https://github.com/jessekl/slackbot#readme"
+}
